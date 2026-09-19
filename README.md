@@ -4,7 +4,6 @@
   Computer Science and Engineering Student | Full-Stack Developer
 </h3>
 
-<p align="center">(https://www.linkedin.com/in/elumalai-k-a02188436)
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Final-Year+CSE+Student;Full-Stack+Developer;Building+Practical+Software+Projects" />
 </p>
 
